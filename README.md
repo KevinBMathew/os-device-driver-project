@@ -139,13 +139,6 @@ sudo rm /dev/sys_knobs
 
 ---
 
-## Demo
-
-A short video demonstration of the project in action is available here:
-[▶ Group49\_VideoDemonstration.mp4](https://drive.google.com/file/d/1R2kBcGjtm8lIEItzsB0P4M_jBr-geDLi/view?usp=sharing)
-
----
-
 ## License
 
 This project was submitted for academic evaluation at BITS Pilani. Feel free to use it as a reference for your own kernel module or embedded Linux projects.
